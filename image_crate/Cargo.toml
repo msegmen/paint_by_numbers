@@ -1,0 +1,13 @@
+[package]
+name = "image_crate"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+# "staticlib" for macOS and iOS, "cdylib" for other platforms and "rlib" for tests and benchmarks
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+flutter_rust_bridge = "1"
