@@ -11,3 +11,7 @@ abstract class RandomImageEvent extends Equatable {
 class _RandomImageStarted extends RandomImageEvent {
   const _RandomImageStarted();
 }
+
+class LoadARandomImage extends RandomImageEvent {
+  const LoadARandomImage();
+}

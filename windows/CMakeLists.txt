@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(my_app LANGUAGES CXX)
+project(flutter_rust_bridge_template LANGUAGES CXX)
 
-set(BINARY_NAME "my_app")
+set(BINARY_NAME "flutter_rust_bridge_template")
 
 cmake_policy(SET CMP0063 NEW)
 
@@ -50,6 +50,7 @@ add_subdirectory("runner")
 # them to the application.
 include(flutter/generated_plugins.cmake)
 
+include(./rust.cmake)
 
 # === Installation ===
 # Support files are copied into place next to the executable, so that it can

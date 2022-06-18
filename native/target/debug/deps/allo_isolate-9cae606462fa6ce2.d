@@ -1,0 +1,9 @@
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/debug/deps/allo_isolate-9cae606462fa6ce2.rmeta: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/dart_array.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/into_dart.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/into_dart_extra.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/ffi.rs
+
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/debug/deps/allo_isolate-9cae606462fa6ce2.d: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/dart_array.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/into_dart.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/into_dart_extra.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/ffi.rs
+
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/lib.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/dart_array.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/into_dart.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/into_dart_extra.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/allo-isolate-0.1.13-beta.5/src/ffi.rs:

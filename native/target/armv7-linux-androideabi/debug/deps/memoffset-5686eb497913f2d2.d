@@ -1,0 +1,10 @@
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/armv7-linux-androideabi/debug/deps/memoffset-5686eb497913f2d2.rmeta: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/armv7-linux-androideabi/debug/deps/libmemoffset-5686eb497913f2d2.rlib: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/armv7-linux-androideabi/debug/deps/memoffset-5686eb497913f2d2.d: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs
+
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/lib.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/raw_field.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/offset_of.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/memoffset-0.6.5/src/span_of.rs:

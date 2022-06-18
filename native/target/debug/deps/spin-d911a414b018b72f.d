@@ -1,0 +1,12 @@
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/debug/deps/spin-d911a414b018b72f.rmeta: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/barrier.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/lazy.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/mutex.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/mutex/spin.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/once.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/rwlock.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/relax.rs
+
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/debug/deps/spin-d911a414b018b72f.d: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/barrier.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/lazy.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/mutex.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/mutex/spin.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/once.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/rwlock.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/relax.rs
+
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/lib.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/barrier.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/lazy.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/mutex.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/mutex/spin.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/once.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/rwlock.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/spin-0.9.3/src/relax.rs:

@@ -16,11 +16,18 @@ dependencies:
   intl: ^0.17.0
   unsplash_client: ^2.1.0+3
   equatable: 
-  
+  flutter_rust_bridge: ^1.34.2
+  freezed_annotation: ^2.0.3
+  path: ^1.8.1
+  path_provider:
+  http:
+
 dev_dependencies:
   bloc_test: ^9.0.3
+  build_runner: ^2.1.11
   flutter_test:
     sdk: flutter
+  freezed: ^2.0.3+1
   mocktail: ^0.3.0
   very_good_analysis: ^3.0.0
 

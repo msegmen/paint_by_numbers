@@ -1,0 +1,11 @@
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/armv7-linux-androideabi/debug/deps/inflate-a163be237b47bf2a.rmeta: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/checksum.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/writer.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/utils.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/reader.rs
+
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/armv7-linux-androideabi/debug/deps/libinflate-a163be237b47bf2a.rlib: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/checksum.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/writer.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/utils.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/reader.rs
+
+/Users/mansursegmen/Development/flutter_rust_bridge_template/native/target/armv7-linux-androideabi/debug/deps/inflate-a163be237b47bf2a.d: /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/lib.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/checksum.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/writer.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/utils.rs /Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/reader.rs
+
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/lib.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/checksum.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/writer.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/utils.rs:
+/Users/mansursegmen/.cargo/registry/src/github.com-1ecc6299db9ec823/inflate-0.4.5/src/reader.rs:
